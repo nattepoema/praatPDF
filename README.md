@@ -9,7 +9,7 @@ Deze Python applicatie stelt je in staat om vragen beantwoord te krijgen over de
 ## Globale werking van de applicatie
 ------------
 
-![MultiPDF Chat App Diagram](./docs/PDF-LangChain.jpg)
+![MultiPDF Chat App Diagram](./img/PDF-LangChain.jpg)
 
 The application follows these steps to provide responses to your questions:
 
