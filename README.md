@@ -9,7 +9,7 @@ Deze Python applicatie stelt je in staat om vragen beantwoord te krijgen over de
 ## Globale werking van de applicatie
 ------------
 
-![MultiPDF Chat App Diagram](./img/PDF-LangChain.jpg)
+![MultiPDF Chat App Diagram](./img/langchain.png)
 
 
 1. PDF documenten worden ingelezen, en de tekst wordt gextraheerd.
