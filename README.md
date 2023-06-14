@@ -11,7 +11,6 @@ Deze Python applicatie stelt je in staat om vragen beantwoord te krijgen over de
 
 ![MultiPDF Chat App Diagram](./img/PDF-LangChain.jpg)
 
-The application follows these steps to provide responses to your questions:
 
 1. PDF documenten worden ingelezen, en de tekst wordt gextraheerd.
 
